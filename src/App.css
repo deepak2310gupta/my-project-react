@@ -55,3 +55,8 @@ a {
   color: "white";
   padding: "8px 17px",
 }
+
+
+.header-upper .input-group-text {
+  background-color: var(--color-febd69);
+}
